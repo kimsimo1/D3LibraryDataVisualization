@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Alabama",
+        "capital": "Montgomery",
+        "population": 4903185,
+        "color": "red"
+    },
+    {
+        "name": "Alaska",
+        "capital": "Juneau",
+        "population": 731545,
+        "color": "blue"
+    },
+    {
+        "name": "Arizona",
+        "capital": "Phoenix",
+        "population": 7278717,
+        "color": "gray"
+    },
+    {
+        "name": "Arkansas",
+        "capital": "Little Rock",
+        "population": 3017804,
+        "color": "pink"
+    },
+    {
+        "name": "California",
+        "capital": "Sacramento",
+        "population": 39512223,
+        "color": "black"
+    },
+    {
+        "name": "Colorado",
+        "capital": "Denver",
+        "population": 5758736,
+        "color": "cyan"
+    },
+    {
+        "name": "Connecticut",
+        "capital": "Hartford",
+        "population": 3565287,
+        "color": "yellow"
+    },
+    {
+        "name": "Delaware",
+        "capital": "Dover",
+        "population": 973764,
+        "color": "purple"
+    },
+    {
+        "name": "Florida",
+        "capital": "Tallahassee",
+        "population": 21477737,
+        "color": "orange"
+    },
+    {
+        "name": "Georgia",
+        "capital": "Atlanta",
+        "population": 10617423,
+        "color": "green"
+    }
+]
